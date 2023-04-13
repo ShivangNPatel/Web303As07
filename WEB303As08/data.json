@@ -1,0 +1,66 @@
+[
+    {
+        "firstName": "Obito",
+        "LastName": "Uchiha",
+        "jutsuType": "GinJutsu",
+        "ChakraStyle": "Fire",
+        "bestAttack": "Kamoi",
+        "dateOfBirth": "12-2-2002"
+
+    },
+    {
+        "firstName": "Naruto",
+        "LastName": "Uzumaki",
+        "jutsuType": "NinJutsu",
+        "ChakraStyle": "Wind",
+        "bestAttack": "Rasengan",
+        "dateOfBirth": "19-11-1999"
+
+    },
+        {
+        "firstName": "Gara",
+        "LastName": "Sand",
+        "jutsuType": "sandJutsu",
+        "ChakraStyle": "Earth",
+        "bestAttack": "Sand Wave",
+        "dateOfBirth": "11-11-2001"
+
+    },
+    {
+        "firstName": "Kakashi",
+        "LastName": "Hatake",
+        "jutsuType": "NinJutsu",
+        "ChakraStyle": "Earth",
+        "bestAttack": "Chidori Push",
+        "dateOfBirth": "5-5-2004"
+
+    },
+    {
+        "firstName": "Sauske",
+        "LastName": "Uchiha",
+        "jutsuType": "NinJutsu",
+        "ChakraStyle": "Lightning",
+        "bestAttack": "Chidori Blade",
+        "dateOfBirth": "29-09-1991"
+
+    },
+    {
+        "firstName": "Madara",
+        "LastName": "Uchiha",
+        "jutsuType": "GinJutsu",
+        "ChakraStyle": "Fire",
+        "bestAttack": "Susano",
+        "dateOfBirth": "10-6-2003"
+
+    },
+    {
+        "firstName": "Rock",
+        "LastName": "Lee",
+        "jutsuType": "TaiJutsu",
+        "ChakraStyle": "Earth",
+        "bestAttack": "Huricane",
+        "dateOfBirth": "19-10-1997"
+
+    }
+
+]
